@@ -3,4 +3,4 @@
 ![GIF](https://media.tenor.com/hZrhcdzuB5EAAAAM/moai.gif)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikeerr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikeerr)](https://github.com/shaikeerr/github-readme-stats)
