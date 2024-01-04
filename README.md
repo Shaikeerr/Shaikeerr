@@ -1,4 +1,4 @@
-<h1 align="center">Henlo! I'm Noah Calmette</h1>
+<h1 align="center">Hello World! I'm Noah Calmette</h1>
 <h3 align="center">Junior Front-end web developer</h3><br>
 
 <p align=center>
