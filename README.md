@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! I'm Noah Calmette</h1>
-<h3 align="center">Junior Front-end web developer</h3><br>
+<h3 align="center"></h3><br>
 
 <p align=center>
 🥖 Baguette Country citizen! 🥖 <br>
-. . . . . ╰──╮ ⭐ MMI Student in Champs-sur-Marne ⭐ ╭──╯ . . . . .<br>
+. . . . . ╰──╮ ⭐ Video Games & VR Developper  ⭐ ╭──╯ . . . . .<br>
 🗿 Meme Dealer 🗿<br>
 </p>
 
